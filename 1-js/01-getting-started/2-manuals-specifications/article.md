@@ -1,4 +1,3 @@
-
 # Manuels et spécifications
 
 Ce livre est un *tutoriel*. Il vise à vous aider à apprendre progressivement le langage. Mais une fois que vous maîtriserez les bases, vous aurez besoin d’autres ressources.
